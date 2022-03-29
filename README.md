@@ -5,8 +5,7 @@
 ### Demo - Deployed over Github Pages 
 https://ayushkul.github.io/react-movie-app
 
-### Full development Tutorial 
-[Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
+
 
 ### APIs Used
 [The Open Movie Database APIs](http://www.omdbapi.com/)
